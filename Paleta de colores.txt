@@ -1,0 +1,5 @@
+gray-400 #9CA3AF
+blue-100 #DBEAFE
+gray-600 #4B5563
+yellow-50 #FFFBEB
+blue-300 #93C5FD
